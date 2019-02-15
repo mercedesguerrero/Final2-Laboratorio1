@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1550273372 source:c:\test\mercedes\final2 laboratorio1\mercedesguerrero\llamadas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+	"Llamadas.h"
+	"Parser.h"
+
+1550273028 source:c:\test\mercedes\final2 laboratorio1\mercedesguerrero\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+	"Llamadas.h"
+	"Parser.h"
+
+1550260469 c:\test\mercedes\final2 laboratorio1\mercedesguerrero\arraylist.h
+
+1550273390 c:\test\mercedes\final2 laboratorio1\mercedesguerrero\llamadas.h
+
+1550260269 c:\test\mercedes\final2 laboratorio1\mercedesguerrero\parser.h
+
+1550273774 source:c:\test\mercedes\final2 laboratorio1\mercedesguerrero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Arraylist.h"
+	"Llamadas.h"
+	"Parser.h"
+
+1550269159 source:c:\test\mercedes\final2 laboratorio1\mercedesguerrero\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+	"Llamadas.h"
+	"Parser.h"
+
